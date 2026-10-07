@@ -8,7 +8,7 @@
   ],
   "items": [
     {
-      "id": "gm-mindful-10",
+      "id": "mind-10-1",
       "title": "10 Minute Guided Meditation for Becoming More Mindful",
       "youtubeId": "Evgx9yX2Vw8",
       "durationLabel": "10분",
@@ -16,12 +16,340 @@
       "category": "mind-calm"
     },
     {
-      "id": "gm-focus-10",
+      "id": "mind-10-2",
+      "title": "10 MIN GUIDED MINDFULNESS MEDITATION (Jon Kabat-Zinn)",
+      "youtubeId": "2GjZanuXWWk",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-10-3",
+      "title": "Guided Mindfulness Meditation (10 Minutes) No Music",
+      "youtubeId": "-xPrGUyyEow",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-5-1",
+      "title": "Just Breathe - 5 Minute Guided Meditation to Calm Your Mind",
+      "youtubeId": "qkmWlm3TBtc",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-5-2",
+      "title": "5 MINUTE Calming Meditation (With Guiding Voice)",
+      "youtubeId": "i50ZAs7v9es",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-15-1",
+      "title": "15 Minute Guided Meditation for Stillness",
+      "youtubeId": "gZGfR7vKDcM",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-15-2",
+      "title": "15-Minute Mindfulness Meditation",
+      "youtubeId": "nmN_2WZdSRs",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-20-1",
+      "title": "20 Minute Mindfulness Meditation for Being Present",
+      "youtubeId": "-2zdUXve6fQ",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "mind-calm"
+    },
+    {
+      "id": "mind-20-2",
+      "title": "20 Minute Guided Meditation: Full-body Relaxation",
+      "youtubeId": "AeOXCgF4S0s",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "mind-calm"
+    },
+    {
+      "id": "focus-10-1",
       "title": "Ten Minute Mindfulness Guided Meditation for Focus",
       "youtubeId": "o_SHRA0oxRQ",
       "durationLabel": "10분",
       "minutes": 10,
       "category": "focus"
+    },
+    {
+      "id": "focus-10-2",
+      "title": "Mindfulness Meditation - Guided 10 Minutes",
+      "youtubeId": "6p_yaNFSYao",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "focus"
+    },
+    {
+      "id": "focus-5-1",
+      "title": "5 Minute Meditation for Focus | The Mindful Movement",
+      "youtubeId": "nLbXeJvW_Aw",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "focus"
+    },
+    {
+      "id": "focus-5-2",
+      "title": "5 Minute Guided Meditation for Productivity and Focus",
+      "youtubeId": "zSkFfB3XvRg",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "focus"
+    },
+    {
+      "id": "focus-15-1",
+      "title": "15-Minute Guided Meditation for Focus and Clarity",
+      "youtubeId": "IzqOJfknO08",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "focus"
+    },
+    {
+      "id": "focus-15-2",
+      "title": "Easy Guided Meditation for Beginners - 15 min Clarity",
+      "youtubeId": "wVSkYKj26qg",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "focus"
+    },
+    {
+      "id": "focus-20-1",
+      "title": "Mindfulness Meditation in 20 Minutes",
+      "youtubeId": "64ZU2UCQdmQ",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "focus"
+    },
+    {
+      "id": "focus-20-2",
+      "title": "20 Minute Guided Meditation for Reducing Anxiety and Stress",
+      "youtubeId": "MIr3RsUWrdo",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "focus"
+    },
+    {
+      "id": "sleep-10-1",
+      "title": "Guided Sleep Meditation Talkdown - Insomnia",
+      "youtubeId": "8TDcGYmEgyM",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-10-2",
+      "title": "Fall Asleep in Under 10 Minutes (Sleep Talk-Down)",
+      "youtubeId": "49SKdW0w4KM",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-5-1",
+      "title": "5 Minute Guided Sleep Meditation | Bedtime Body Scan",
+      "youtubeId": "LUJBIAYlqak",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-5-2",
+      "title": "5-minute Bedtime Meditation for Better Sleep",
+      "youtubeId": "FciZrAiXFNI",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-15-1",
+      "title": "15 Minute Guided Meditation for Sleep",
+      "youtubeId": "e0dEo-xNSpM",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-15-2",
+      "title": "Body Scan for Overthinking at Night | Sleep Meditation",
+      "youtubeId": "2hY15FWp58s",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-20-1",
+      "title": "20 Minute Guided Sleep Meditation for Deep Sleep",
+      "youtubeId": "hZrr9xNsnMA",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "sleep"
+    },
+    {
+      "id": "sleep-20-2",
+      "title": "Deep Sleep Meditation - 20 Minutes",
+      "youtubeId": "2OEL4P1Rpi4",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "sleep"
+    },
+    {
+      "id": "stress-5-1",
+      "title": "5 Minute Stress Relief Guided Meditation",
+      "youtubeId": "L1QOh-n-eus",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "stress"
+    },
+    {
+      "id": "stress-5-2",
+      "title": "5 Minute Guided Meditation To Reset Your Nervous System",
+      "youtubeId": "IdUrixeWbis",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "stress"
+    },
+    {
+      "id": "stress-10-1",
+      "title": "10-Minute Meditation For Anxiety | Goodful",
+      "youtubeId": "O-6f5wQXSu8",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "stress"
+    },
+    {
+      "id": "stress-10-2",
+      "title": "10 Minute Meditation to Release Stress & Anxiety",
+      "youtubeId": "H_uc-uQ3Nkc",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "stress"
+    },
+    {
+      "id": "stress-10-3",
+      "title": "10 Minute Guided Meditation for Stress & Anxiety",
+      "youtubeId": "tuPW7oOudVc",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "stress"
+    },
+    {
+      "id": "stress-15-1",
+      "title": "15 Minute Guided Meditation For Stress and Overthinking",
+      "youtubeId": "pW8JM8t7kGM",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "stress"
+    },
+    {
+      "id": "stress-15-2",
+      "title": "Guided Mindfulness Meditation for Beginners (15 minutes)",
+      "youtubeId": "TTjxdx18Q8E",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "stress"
+    },
+    {
+      "id": "stress-20-1",
+      "title": "20 Minute Guided Meditation for Reducing Anxiety and Stress",
+      "youtubeId": "MIr3RsUWrdo",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "stress"
+    },
+    {
+      "id": "stress-20-2",
+      "title": "Mindfulness Meditation in 20 Minutes",
+      "youtubeId": "64ZU2UCQdmQ",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "stress"
+    },
+    {
+      "id": "morning-10-1",
+      "title": "10-Minute Meditation To Start Your Day | Goodful",
+      "youtubeId": "ENYYb5vIMkU",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "morning"
+    },
+    {
+      "id": "morning-10-2",
+      "title": "Guided Morning Meditation (10 minutes)",
+      "youtubeId": "WYP_W49o1vQ",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "morning"
+    },
+    {
+      "id": "morning-10-3",
+      "title": "Morning Gratitude (10 Minute guided meditation)",
+      "youtubeId": "CyK3EaLB-24",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "morning"
+    },
+    {
+      "id": "morning-5-1",
+      "title": "5 Minute Morning Meditation",
+      "youtubeId": "xRw6cduzZ10",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "morning"
+    },
+    {
+      "id": "morning-5-2",
+      "title": "5 MIN MORNING MEDITATION | Positive Energy",
+      "youtubeId": "fC5v3u72buw",
+      "durationLabel": "5분",
+      "minutes": 5,
+      "category": "morning"
+    },
+    {
+      "id": "morning-15-1",
+      "title": "15 Minute Morning Meditation for a Positive Day",
+      "youtubeId": "vRGTlAchdBQ",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "morning"
+    },
+    {
+      "id": "morning-15-2",
+      "title": "15-Minute Guided Meditation for Focus and Clarity",
+      "youtubeId": "IzqOJfknO08",
+      "durationLabel": "15분",
+      "minutes": 15,
+      "category": "morning"
+    },
+    {
+      "id": "morning-20-1",
+      "title": "20-Minute Guided Meditation: Gratitude & Inner Peace",
+      "youtubeId": "Pn5xH3zu0Sc",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "morning"
+    },
+    {
+      "id": "morning-20-2",
+      "title": "20 Minute Mindfulness Meditation for Being Present",
+      "youtubeId": "-2zdUXve6fQ",
+      "durationLabel": "20분",
+      "minutes": 20,
+      "category": "morning"
     }
   ]
 }
