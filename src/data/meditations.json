@@ -1,0 +1,27 @@
+{
+  "categories": [
+    { "id": "mind-calm", "label": "마음 안정", "emoji": "🌿" },
+    { "id": "sleep", "label": "수면", "emoji": "😴" },
+    { "id": "stress", "label": "스트레스 완화", "emoji": "🧘" },
+    { "id": "focus", "label": "집중", "emoji": "🎯" },
+    { "id": "morning", "label": "아침 명상", "emoji": "🌅" }
+  ],
+  "items": [
+    {
+      "id": "gm-mindful-10",
+      "title": "10 Minute Guided Meditation for Becoming More Mindful",
+      "youtubeId": "Evgx9yX2Vw8",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "mind-calm"
+    },
+    {
+      "id": "gm-focus-10",
+      "title": "Ten Minute Mindfulness Guided Meditation for Focus",
+      "youtubeId": "o_SHRA0oxRQ",
+      "durationLabel": "10분",
+      "minutes": 10,
+      "category": "focus"
+    }
+  ]
+}
